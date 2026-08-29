@@ -1,0 +1,101 @@
+sentence,aspectTerm,opinionPhrase,polarity
+"Late nite omelletes are not good here, there is no variety!",omelletes,not good,negative
+"Found service above average, but that could be because we were 13 of us.",service,above average,positive
+"He not only makes his own homemade mozzarella, but every pie is ultra fresh.",pie,ultra fresh,positive
+"Always a nice crowd, but never loud.",crowd,nice,positive
+The best pad thai i've ever had.,pad thai,best,positive
+"Even though its good seafood, the prices are too high.",prices,too high,negative
+"Perhaps this food is considered extreme to an Upper East Side resident, but for the rest of us who've actually eaten ethnic food, this is simply dull.",ethnic food,simply dull,negative
+"Even if the food wasn't this good, the garden is a great place to sit outside and relax.",food,wasn’t this good,negative
+"Great bagels, spreads and a good place to hang out in.",bagels,great,positive
+"While this is a pretty place in that overly cute French way, the food was insultingly horrible.",food,insultingly horrible,negative
+"The ambiance is minimal the food is not phenomenal, but some dishes are quite good, such as the eggplant parmesan, veal in carozza chicken saltimbocca.",ambiance,minimal,neutral
+Diner food at bistro prices is a bummer....,prices,bummer,negative
+"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",pistachio ice cream,amazing | best | freshest,positive
+"The people with carts of food don't understand you because they don't speak English, their job is to give you the delicious food you point at.",people with carts of food,don’t understand,neutral
+"A narrow corridor leads to a tiny space where there are three tiny white tiled counters, a great deal of mess (stacks of bottles, cans) and a small counter holding 12-14 entrees.",counter,small,negative
+"The food was not very tasty, the portioins were tiny even for such a high quality restaurant.",portioins,tiny,negative
+"at taj, vegetarians can rejoice-all the dishes are manna from heaven.",dishes,manna from heaven,positive
+"the real kicker of the menu, however, is the beef cubes or the chicken with chili and lemon grass.",chicken with chili and lemon grass,real kicker,positive
+"The wine is always good, the tapas are always yummy, especially with the warm pita bread.",tapas,always yummy,positive
+"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.",food,overpriced,negative
+"While the room is not particularly comfortable, once you're seated you'll forget about everything except what's on your plate.",room,not particularly comfortable,negative
+"The menu changed, portions were even smaller than before, a lentil dish was salty beyond edibility, a basmati rice dish lacked flavor.",portions,smaller than before,negative
+"The prices cannot be beat for the quality, quantity, freshness and taste.",prices,cannot be beat,positive
+Sushi wasn't anything spectacular for the price.,Sushi,wasn’t anything spectacular,negative
+"Good spreads, great beverage selections and bagels really tasty.",spreads,Good,positive
+"The Halibut was too salty, dessert was so so (don't waste any of your calories) and service was poor.",service,poor,negative
+"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",steak,mouth watering,positive
+"Food was very good, but not what I would consider out of this world.",Food,very good,positive
+Consistently good Japanese Tapas.,Japanese Tapas,Consistently good,positive
+The menu is very limited - i think we counted 4 or 5 entrees.,menu,very limited,negative
+"The chicken and steak were seasoned and cooked to perfection, and the lamb sandwhich is great for heartier appetites.",lamb sandwich,great,positive
+The restaurant is rather small but we were lucky to get a table quickly.,restaurant,rather small,negative
+"Its a nice quiet location to go eat a good meal, relax, be able to talk and have a very good time.",location,nice quiet,positive
+"The menu looked good, except for offering the Chilean Sea Bass, but the server does not offer up the specials that were written on the board outside.",menu,looked good,positive
+Pastrami or corned beef are juicy and piled high (ask for extra rye bread).,Pastrami or corned beef,juicy,positive
+"The combination of fresh tomato sauce, fresh mozz cheese, basil and the dough they make with imported flour, makes this is one of the best pizza's in NY.",pizza,best,positive
+From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I can't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing.,truffle sauce,delicious,positive
+"The food, served in small tasting portions (as an option) is very good with each dish being better than the next.",portions,small tasting,neutral
+"try the spicy shrimp appetizer (again, not the greatest value in the world but worth the price) and the lamb vindaloo is great.",lamb vindaloo,great,positive
+I'd call it an 'italian dinner'.,dinner,italian,neutral
+The price is reasonable although the service is poor.,service,poor,negative
+"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY.",dance floor,one of the biggest,neutral
+All of my co-workers stated that the food was amazing and wondered why they hadn't heard about this place.,food,amazing,positive
+The food is tasty and portion sizes are appropriate.,portion sizes,appropriate,positive
+"The service is ok, some of the people didn't get what they asked for.",service,ok,neutral
+"An excellent alternative to fastfood joints and ordering in but, the food was slightly disappointing.",food,slightly disappointing,negative
+"Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed, however herb mix or other sauce would have done much to enhance.",texture,fabulous,positive
+Two words: Free wine.,wine,free,positive
+"The red curry is weak and tasteless, the pad thai is stuck together and lumpy, the rice is often overcooked, and the seafood is pretty sketchy.",seafood,pretty sketchy,negative
+"While we enjoyed the food, we were highly disappointed by the poor service (waiter was not quite competent and SLOW service) and lack of remorse.",waiter,not quite competent,negative
+"The last two times I ordered from here my food was soo spicy that  I could barely eat it, and the spice took away from the flavor of the dish.",food,soo spicy,negative
+"The service is excellent, the decor is great, and the food is delicious and comes in large portions.",service,excellent,positive
+The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).,wasabi,fresh,positive
+"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",candle-light,overcompensate,positive
+"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.",management,doesn’t care,neutral
+"But, nothing stands out about the cooking.",cooking,nothing stands out,negative
+The service is awful--the last time I was there (and I do mean the last time) we were told that they needed our table so we would have to leave.,service,awful,negative
+"Their eggplant is so delicate, sweet tender!",eggplant,so delicate,positive
+They need a kick out of it but until then the sushi is pretty good and the place is consistent.,sushi,pretty good,positive
+"I had their eggs benedict for brunch, which were the worst in my entire life, I tried removing the hollondaise sauce completely that was how failed it was.",eggs benedict,worst,negative
+The pizza is good though.,pizza,good,positive
+"Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",food,Delicious,positive
+"I recommend their Pad See Ew, Pork Chops or Tofu plates.",Pork Chops,I recommend,neutral
+"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.",service,clumsy,negative
+"The menu changed, portions were even smaller than before, a lentil dish was salty beyond edibility, a basmati rice dish lacked flavor.",lentil dish,Salty | beyond edible,negative
+"The menu changed, portions were even smaller than before, a lentil dish was salty beyond edibility, a basmati rice dish lacked flavor.",menu,changed,neutral
+"The menu changed, portions were even smaller than before, a lentil dish was salty beyond edibility, a basmati rice dish lacked flavor.",basmati rice dish,lacked flavor,negative
+"Good spreads, great beverage selections and bagels really tasty.",beverage selections,great,positive
+"Good spreads, great beverage selections and bagels really tasty.",bagels,really tasty,positive
+"The Halibut was too salty, dessert was so so (don't waste any of your calories) and service was poor.",Halibut,too salty,negative
+"The Halibut was too salty, dessert was so so (don't waste any of your calories) and service was poor.",dessert,so so,negative
+"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",appetizers,fabulous,positive
+"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",salads,fabulous,positive
+"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",pasta,delicious,positive
+"Its a nice quiet location to go eat a good meal, relax, be able to talk and have a very good time.",meal,good,positive
+"Its a nice quiet location to go eat a good meal, relax, be able to talk and have a very good time.",time,very good,positive
+The price is reasonable although the service is poor.,price,reasonable,positive
+The food is tasty and portion sizes are appropriate.,food,tasty,positive
+"Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed, however herb mix or other sauce would have done much to enhance.",Barbecued codfish,gorgeously moist,positive
+"Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed, however herb mix or other sauce would have done much to enhance.",seasoning,curiously bland,negative
+"The red curry is weak and tasteless, the pad thai is stuck together and lumpy, the rice is often overcooked, and the seafood is pretty sketchy.",red curry,Weak | tasteless,negative
+"The red curry is weak and tasteless, the pad thai is stuck together and lumpy, the rice is often overcooked, and the seafood is pretty sketchy.",pad thai,stuck together | lumpy,negative
+"The red curry is weak and tasteless, the pad thai is stuck together and lumpy, the rice is often overcooked, and the seafood is pretty sketchy.",rice,often overcooked,negative
+Service is highly refined: our seating was delayed 35 minutes past our reservation and the maitre d' apologized and regularly kept us apprised of progress.,Service,highly refined,positive
+"The service is excellent, the decor is great, and the food is delicious and comes in large portions.",decor,great,positive
+"The service is excellent, the decor is great, and the food is delicious and comes in large portions.",food,delicious,positive
+"The service is excellent, the decor is great, and the food is delicious and comes in large portions.",portions,large,neutral
+The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).,fish,fresh,positive
+The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).,piece,sliced to perfection,positive
+"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",Food-quality,overcompensate,positive
+"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",service,overcompensate,positive
+They need a kick out of it but until then the sushi is pretty good and the place is consistent.,place,consistent,positive
+"Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",service,excellent,positive
+"Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",atmosphere,pretty,positive
+The food tasted wonderfully and the location was breathtaking,location,breathtaking,positive
+The omelette tasted wonderfully and the location was breathtaking,omelette,tasted wonderfully,positive
+Poor service quality: we tried to call the waiter a dozen of times!,service quality,poor,negative
+The tomato sauce on the pasta was discreet: my grandma makes it better!,tomato sauce,discreet,neutral
+Worst fast food experience: the fries were too greasy and the hamburger seemed like it was hit by a car,fries,too greasy,negative
+Shrimps and seefood in general was of poor quality,Shrimps,poor quality,negative
