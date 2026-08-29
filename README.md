@@ -5,7 +5,8 @@ Il progetto è stato sviluppato con l'obiettivo di studiare separatamente le pri
 Il dataset è reperibile al seguente [link](https://www.kaggle.com/datasets/charitarth/semeval-2014-task-4-aspectbasedsentimentanalysis?select=Restaurants_Train_v2.csv)
 ## Relazione
 Il progetto presentato è descritto nella seguente [relazione](https://github.com/DaniNar2/Aspect-Based-Sentiment-Analysis/blob/main/Aspect%20and%20Opinion-Based%20Sentiment%20Analysis%20Pipeline.pdf)
-/nThe report is also available in English at the following [link](https://github.com/DaniNar2/Aspect-Based-Sentiment-Analysis/blob/main/Aspect%20and%20Opinion-Based%20Sentiment%20Analysis%20Pipeline%20-%20English.pdf)
+<br>
+The report is also available in English at the following [link](https://github.com/DaniNar2/Aspect-Based-Sentiment-Analysis/blob/main/Aspect%20and%20Opinion-Based%20Sentiment%20Analysis%20Pipeline%20-%20English.pdf)
 ## Codice
 - Codice Aspect Term Extraction (ATE): [Link](https://github.com/DaniNar2/Aspect-Based-Sentiment-Analysis/blob/main/ATE_Restaurant.ipynb)
 - Codice Opinion Term Extraction (OTE): [Link](https://github.com/DaniNar2/Aspect-Based-Sentiment-Analysis/blob/main/OTE_Restaurant.ipynb)
